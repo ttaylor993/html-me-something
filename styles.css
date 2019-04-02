@@ -35,6 +35,17 @@ h1 {
     text-align:center;
     font-family: times;
     }
+span.link {
+    font-weight: bold;    
+}
+
+p   {
+    text-align: left;
+    margin-left: 20rem;
+    border-style: double;
+    border-color: black;
+    width: 55%;   
+}
 
 
 
